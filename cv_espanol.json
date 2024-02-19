@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Front-End Developer with +3 years of experience & Entrepreneur",
+    "label": "Front-End Developer con más de 3 años de experiencia & Emprendedor",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
+    "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Mexican Front-End Developer with experience in ReactJS, NextJS, Redux, and Zustand. I have collaborated in integrations of different KYC services (Truora / Incode) and payment gateways (Conekta / Stripe). I have experience in Back-End development using Python/Flask and NodeJS/Express. I have developed in mobile using React Native and Flutter.",
+    "summary": "Desarrollador Front-End Mexicano con experiencia en ReactJS, NextJS, Redux y Zustand. He colaborado en integraciones de diferentes servicios de KYC (Truora / Incode) y pasarelas de pago (Conekta / Stripe). Tengo experiencia en Back-End desarrollando con Python/Flask y NodeJS/Express. He desarrollado en mobile utilizando React Native  y Flutter.",
     "location": {
       "address": "",
       "postalCode": "26533",
@@ -34,11 +34,11 @@
       "url": "https://www.webookyou.com/",
       "startDate": "2023-11-01",
       "endDate": null,
-      "summary": "I collaborated in the development of the main MVP and a white-label solution, using technologies such as React, NextJS, and Redux. I currently lead and advise a team of 4-6 developers."      ,
+      "summary": "Colaboré en el desarrollo del MVP principal y una solución de marca blanca, utilizando tecnologías como React, NextJS y Redux. Lidero y asesoro actualmente a un equipo de 4-6 desarrolladores.",
       "highlights": [
-        "MVP Development",
-        "Team Leadership"
-        ]        
+        "Desarrollo de MVP",
+        "Liderazgo de equipo"
+      ]
     },
     {
       "name": "Trescento",
@@ -46,10 +46,10 @@
       "url": "https://www.trescento.com/",
       "startDate": "2022-11-01",
       "endDate": null,
-      "summary": "I led the technical integration between various products and spearheaded the transition from a monolithic architecture to a more modern, flexible, and optimized solution. I drove the adoption of best practices and a performance-oriented culture, thereby contributing to the efficient and rapid delivery of value to users.",
+      "summary": "Dirigí la integración técnica entre diversos productos y lideré la transición de una arquitectura monolítica a una solución más moderna, flexible y optimizada. Impulsé la adopción de mejores prácticas y una cultura orientada al rendimiento, contribuyendo así a la entrega eficiente y rápida de valor a los usuarios.",
       "highlights": [
-        "Entrepreneurship",
-        "MVP Development"
+        "Emprendimiento",
+        "Desarrollo de MVP"
       ]
     },
     {
@@ -57,7 +57,7 @@
       "position": "Technical Lead",
       "startDate": "2021-12-01",
       "endDate": "2022-11-05",
-      "summary": "I developed innovative solutions for key problems in the organizational core and coordinated a team of developers to implement new product features and strategies, achieving significant improvements.",
+      "summary": "Desarrollé soluciones innovadoras para problemas clave en el core organizacional y coordiné un equipo de desarrolladores para implementar nuevas características de producto y estrategias, logrando mejoras significativas.",
       "highlights": [
         "Liderazgo de equipo"
       ]
@@ -67,9 +67,9 @@
       "position": "Front-End Developer",
       "startDate": "2021-04-15",
       "endDate": "2021-11-30",
-      "summary": "I led the Front-End development with JS/React, executing key integrations (Credit Bureau, payment gateways, Mixpanel), A/B testing development, and the implementation of a chat for advisors and KYC processes, excelling in technical innovation and project management."      ,
+      "summary": "Lideré el desarrollo Front-End con JS/React, ejecutando integraciones clave (Buró de Crédito, pasarelas de pago, Mixpanel), desarrollo de pruebas A/B, y la implementación de un chat para asesores y procesos de KYC, destacando en innovación técnica y gestión de proyectos.",
       "highlights": [
-        "Team Leadership"
+        "Liderazgo de equipo"
       ]
     }
   ],
@@ -87,7 +87,7 @@
   "education": [{
     "institution": "Universidad Tecnológica del Norte de Coahuila",
     "url": "https://www.utnc.edu.mx/",
-    "area": "Mecatronics Engineer",
+    "area": "Ingeniero en Mecatrónica",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
     "endDate": "2021-01-01",
@@ -120,112 +120,112 @@
       "name": "HTML",
       "level": "Master",
       "keywords": [
-        "Web Development", "Frontend"
+        "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Master",
       "keywords": [
-        "Web Development", "Frontend", "Responsive Design"
+        "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "Fullstack"
+        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
       "name": "NodeJS",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Backend", "JavaScript", "Server"
+        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
       ]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Database", "SQL", "Data Storage", "Backend"
+        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
       "keywords": [
-        "Versions Control", "Colaboration", "Source code"
+        "Control de Versiones", "Colaboración", "Código Fuente"
       ]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Versions Control", "Colaboration", "Source code", "Git"
+        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "React Native",
       "level": "Avanzado",
       "keywords": [
-        "Mobile Development", "UI", "JavaScript Library"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Vue",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Nuxt",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Astro",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Flutter / Dart",
       "level": "Avanzado",
       "keywords": [
-        "Mobile Development", "UI"
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
@@ -254,10 +254,10 @@
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Landing Page for church in San Antonio, TX.",
+      "description": "Landing Page para iglesia en San Antonio, TX.",
       "highlights": [
-        "YouTube integration",
-        "Custom developed for client"
+        "Integración con YouTube",
+        "Desarrollado a medida para cliente"
       ],
       "url": "https://gwesp.vercel.app/",
       "github": ""
@@ -265,10 +265,10 @@
     {
       "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Custom developed for client",
+      "description": "Landing Page para Fintech que brinda servicios financieros en el sector arrendamiento en México",
       "highlights": [
-        "Developed using Vue, Nuxt 3",
-        "Custom developed for client"
+        "Proyecto en Vue, Nuxt 3",
+        "Desarrollado a medida para cliente"
       ],
       "url": "https://lumosweb.vercel.app/"
     }
