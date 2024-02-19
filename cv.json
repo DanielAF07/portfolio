@@ -1,68 +1,75 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Daniel Anchondo",
+    "label": "Front-End Developer con más de 3 años de experiencia & Emprendedor",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
+    "email": "danielanchondo07@gmail.com",
+    "phone": "+52 8781657636",
     "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "summary": "Desarrollador Front-End Mexicano con experiencia en ReactJS, NextJS, Redux y Zustand. He colaborado en integraciones de diferentes servicios de KYC (Truora / Incode) y pasarelas de pago (Conekta / Stripe). Tengo experiencia en Back-End desarrollando con Python/Flask y NodeJS/Express. He desarrollado en mobile utilizando React Native  y Flutter.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "26533",
+      "city": "Coahuila",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
+        "username": "daniel-anchondo",
+        "url": "https://linkedin.com/in/daniel-anchondo"
       },
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "DanielAF07",
+        "url": "https://github.com/DanielAF07"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "We Book You",
+      "position": "Front-End Lead Developer",
+      "url": "https://www.webookyou.com/",
+      "startDate": "2023-11-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Colaboré en el desarrollo del MVP principal y una solución de marca blanca, utilizando tecnologías como React, NextJS y Redux. Lidero y asesoro actualmente a un equipo de 4-6 desarrolladores.",
       "highlights": [
-        "Started the company"
+        "Desarrollo de MVP",
+        "Liderazgo de equipo"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "name": "Trescento",
+      "position": "Co-Founder & Front-End Developer",
+      "url": "https://www.trescento.com/",
+      "startDate": "2022-11-01",
+      "endDate": null,
+      "summary": "Dirigí la integración técnica entre diversos productos y lideré la transición de una arquitectura monolítica a una solución más moderna, flexible y optimizada. Impulsé la adopción de mejores prácticas y una cultura orientada al rendimiento, contribuyendo así a la entrega eficiente y rápida de valor a los usuarios.",
       "highlights": [
-        "Started the company"
+        "Emprendimiento",
+        "Desarrollo de MVP"
       ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Cura Deuda",
+      "position": "Technical Lead",
+      "startDate": "2021-12-01",
+      "endDate": "2022-11-05",
+      "summary": "Desarrollé soluciones innovadoras para problemas clave en el core organizacional y coordiné un equipo de desarrolladores para implementar nuevas características de producto y estrategias, logrando mejoras significativas.",
       "highlights": [
-        "Started the company"
+        "Liderazgo de equipo"
+      ]
+    },
+    {
+      "name": "Cura Deuda",
+      "position": "Front-End Developer",
+      "startDate": "2021-04-15",
+      "endDate": "2021-11-30",
+      "summary": "Lideré el desarrollo Front-End con JS/React, ejecutando integraciones clave (Buró de Crédito, pasarelas de pago, Mixpanel), desarrollo de pruebas A/B, y la implementación de un chat para asesores y procesos de KYC, destacando en innovación técnica y gestión de proyectos.",
+      "highlights": [
+        "Liderazgo de equipo"
       ]
     }
   ],
@@ -78,12 +85,12 @@
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
+    "institution": "Universidad Tecnológica del Norte de Coahuila",
+    "url": "https://www.utnc.edu.mx/",
+    "area": "Ingeniero en Mecatrónica",
     "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
+    "startDate": "2017-01-01",
+    "endDate": "2021-01-01",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -145,7 +152,7 @@
       ]
     },
     {
-      "name": "Node",
+      "name": "NodeJS",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Backend", "JavaScript", "Servidor"
@@ -185,6 +192,41 @@
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
       ]
+    },
+    {
+      "name": "React Native",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Vue",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Nuxt",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Flutter / Dart",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
     }
   ],
   "languages": [
@@ -210,66 +252,24 @@
   }],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Landing Page para iglesia en San Antonio, TX.",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "Integración con YouTube",
+        "Desarrollado a medida para cliente"
       ],
-      "url": "https://mars.codes"
+      "url": "https://gwesp.vercel.app/"
     },
     {
-      "name": "AdventJS",
+      "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Landing Page para Fintech que brinda servicios financieros en el sector arrendamiento en México",
       "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
+        "Proyecto en Vue, Nuxt 3",
+        "Desarrollado a medida para cliente"
       ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "url": "https://lumosweb.vercel.app/"
     }
   ]
 }
