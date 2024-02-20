@@ -267,12 +267,22 @@
     {
       "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Custom developed for client",
+      "description": "Landing Page for Fintech that provides financial services in the leasing sector in Mexico",
       "highlights": [
         "Developed using Vue, Nuxt 3",
         "Custom developed for client"
       ],
       "url": "https://lumosweb.vercel.app/"
+    },
+    {
+      "name": "Product Makers",
+      "isActive": true,
+      "description": "Landing page developed for a consulting company",
+      "highlights": [
+        "Developed using React, NextJS",
+        "Custom developed for client"
+      ],
+      "url": "https://mvp-od.vercel.app/"
     }
   ]
 }
