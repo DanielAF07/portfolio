@@ -283,6 +283,16 @@
         "Custom developed for client"
       ],
       "url": "https://mvp-od.vercel.app/"
+    },
+    {
+      "name": "Figma Clone",
+      "isActive": true,
+      "description": "Figma clone completely functional using React and TailwindCSS",
+      "highlights": [
+        "Functional clone",
+        "UI/UX Tool"
+      ],
+      "url": "https://figma-clone-rho.vercel.app/"
     }
   ]
 }
