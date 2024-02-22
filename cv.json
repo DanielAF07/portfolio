@@ -292,7 +292,8 @@
         "Functional clone",
         "UI/UX Tool"
       ],
-      "url": "https://figma-clone-rho.vercel.app/"
+      "url": "https://figma-clone-rho.vercel.app/",
+      "github": "https://github.com/danielaf07/figma-clone"
     }
   ]
 }
