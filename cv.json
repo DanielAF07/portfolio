@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Front-End Developer with +3 years of experience & Entrepreneur",
+    "label": "Software Engineer with +4 years of experience & Entrepreneur",
     "image": "/me.webp",
     "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Mexican Front-End Developer with experience in ReactJS, NextJS, Redux, and Zustand. I have collaborated in integrations of different KYC services (Truora / Incode) and payment gateways (Conekta / Stripe). I have experience in Back-End development using Python/Flask and NodeJS/Express. I have developed in mobile using React Native and Flutter.",
+    "summary": "Software Engineer with strong experience in Front-End development using ReactJS, NextJS, and state management libraries (Redux, Zustand). I have led the development of interactive and high-performance user interfaces. Additionally, I have experience in Back-End development with Python (Flask, FastAPI) and NodeJS (Express), which allows me to build complete and scalable web applications. I also have experience in mobile development with React Native and Flutter.",
     "location": {
       "address": "",
       "postalCode": "26533",
@@ -228,6 +228,34 @@
       "level": "Avanzado",
       "keywords": [
         "Mobile Development", "UI"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "Flask",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
       ]
     }
   ],
