@@ -322,6 +322,16 @@
       ],
       "url": "https://figma-clone-rho.vercel.app/",
       "github": "https://github.com/danielaf07/figma-clone"
+    },
+    {
+      "name": "Silva Master Cleaning",
+      "isActive": true,
+      "description": "Landing page developed for a cleaning company",
+      "highlights": [
+        "Developed using Astro",
+        "Custom developed for client"
+      ],
+      "url": "https://silvamastercleaning.com"
     }
   ]
 }
