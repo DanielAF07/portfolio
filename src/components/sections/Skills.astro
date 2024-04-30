@@ -3,6 +3,7 @@ import Section from "../Section.astro"
 import HTML from "@/icons/html.astro"
 import CSS from "@/icons/css.astro"
 import JavaScript from "@/icons/javascript.astro"
+import ReactNative from "@/icons/reactNative.astro"
 import TypeScript from "@/icons/type.astro"
 import React from "@/icons/react.astro"
 import Node from "@/icons/node.astro"
@@ -12,6 +13,7 @@ import GitHub from "@/icons/GitHub.astro"
 import Tailwind from "@/icons/tailwind.astro"
 import Next from "@/icons/next.astro"
 import { skills } from "@cv"
+import Flutter from "@/icons/flutter.astro"
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -25,6 +27,8 @@ const SKILLS_ICONS: Record<string, any> = {
   GitHub,
   Next,
   Tailwind,
+  Flutter,
+  ReactNative
 }
 ---
 
@@ -32,7 +36,8 @@ const SKILLS_ICONS: Record<string, any> = {
   <ul>
     {
       skills.map(({ name }) => {
-        const iconName = name === "Next.js" ? "Next" : name
+        let iconName = name === "Next.js" ? "Next" : name
+        if(iconName === "React Native") iconName = "ReactNative"
         const Icon = SKILLS_ICONS[iconName]
 
         return (

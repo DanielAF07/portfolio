@@ -92,7 +92,7 @@
     "area": "Mechatronics Engineer",
     "studyType": "Bachelor",
     "startDate": "2017-01-01",
-    "endDate": "2021-01-01",
+    "endDate": "2021-01-02",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -224,7 +224,14 @@
       ]
     },
     {
-      "name": "Flutter / Dart",
+      "name": "Flutter",
+      "level": "Avanzado",
+      "keywords": [
+        "Mobile Development", "UI"
+      ]
+    },
+    {
+      "name": "Dart",
       "level": "Avanzado",
       "keywords": [
         "Mobile Development", "UI"
