@@ -30,15 +30,15 @@
   "work": [
     {
       "name": "We Book You",
-      "position": "Tech Lead / Front-End Lead Developer",
+      "position": "Tech Lead & Front-End Lead Developer",
       "url": "https://www.webookyou.com/",
       "startDate": "2022-11-01",
-      "endDate": null,
-      "summary": "I collaborated in the development of the main MVP and a white-label solution, using technologies such as React, NextJS, and Redux. I currently lead and advise a team of 4-6 developers."      ,
+      "endDate": "2024-05-01",
+      "summary": "I collaborated in the development of the main MVP and a white-label solution, using technologies such as React, NextJS, Python and FastAPI. I currently lead and advise a team of 4-6 developers. We deployed the entire infrastructure using AWS for backend services and Vercel for frontend hosting.",
       "highlights": [
         "MVP Development",
         "Team Leadership"
-        ]        
+      ]
     },
     {
       "name": "Trescento",
@@ -58,9 +58,9 @@
       "url": "https://www.curadeuda.com",
       "startDate": "2021-12-01",
       "endDate": "2022-11-05",
-      "summary": "I developed innovative solutions for key problems in the organizational core and coordinated a team of developers to implement new product features and strategies, achieving significant improvements.",
+      "summary": "I developed innovative solutions for key problems in the organizational core and coordinated a team of developers to implement new product features and strategies, achieving significant improvements. I worked extensively with Python and Flask for backend development and utilized AWS for cloud services.",
       "highlights": [
-        "Liderazgo de equipo"
+        "Team Leadership"
       ]
     },
     {
@@ -69,7 +69,7 @@
       "url": "https://www.curadeuda.com",
       "startDate": "2021-04-15",
       "endDate": "2021-11-30",
-      "summary": "I led the Front-End development with JS/React, executing key integrations (Credit Bureau, payment gateways, Mixpanel), A/B testing development, and the implementation of a chat for advisors and KYC processes, excelling in technical innovation and project management."      ,
+      "summary": "I led the Front-End development with JS/React, executing key integrations (Credit Bureau, payment gateways, Mixpanel), A/B testing development, and the implementation of a chat for advisors and KYC processes, excelling in technical innovation and project management.",
       "highlights": [
         "Team Leadership"
       ]
@@ -105,10 +105,10 @@
     "summary": "There is no spoon."
   }],
   "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
+    "name": "English C1 Level",
+    "date": "March 2021",
+    "issuer": "EF SET",
+    "url": "https://cert.efset.org/YFfqni"
   }],
   "publications": [{
     "name": "Publication",
@@ -140,6 +140,13 @@
       ]
     },
     {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
@@ -147,10 +154,31 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Python",
       "level": "Avanzado",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
+      ]
+    },
+    {
+      "name": "Flask",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "UI"
       ]
     },
     {
@@ -182,17 +210,17 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Web Development", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
@@ -203,20 +231,6 @@
       ]
     },
     {
-      "name": "Vue",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Nuxt",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
       "name": "Astro",
       "level": "Avanzado",
       "keywords": [
@@ -224,45 +238,10 @@
       ]
     },
     {
-      "name": "Flutter",
+      "name": "AWS",
       "level": "Avanzado",
       "keywords": [
-        "Mobile Development", "UI"
-      ]
-    },
-    {
-      "name": "Dart",
-      "level": "Avanzado",
-      "keywords": [
-        "Mobile Development", "UI"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "FastAPI",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "Flask",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "Express.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
+        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     }
   ],
