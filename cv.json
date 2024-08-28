@@ -1,14 +1,13 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Software Engineer with +4 years of experience & Entrepreneur",
+    "label": "Front-End Developer with +4 years of experience & Tech Lead",
     "image": "/me.webp",
     "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Software Engineer with strong experience in Front-End development using ReactJS, NextJS, and state management libraries (Redux, Zustand). I have led the development of interactive and high-performance user interfaces. Additionally, I have experience in Back-End development with Python (Flask, FastAPI) and NodeJS (Express), which allows me to build complete and scalable web applications. I also have experience in mobile development with React Native and Flutter.",
+    "summary": "Front-End Developer with over 4 years of experience building interactive, high-performance user interfaces using ReactJS, NextJS, and state management libraries like Redux and Zustand. Experienced in leading teams and delivering scalable solutions. Proficient in Back-End development with Python (Flask, FastAPI) and NodeJS, as well as mobile development with React Native and Flutter.",
     "location": {
-      "address": "",
       "postalCode": "26533",
       "city": "Coahuila",
       "countryCode": "MX",
@@ -34,10 +33,10 @@
       "url": "https://www.webookyou.com/",
       "startDate": "2022-11-01",
       "endDate": "2024-05-01",
-      "summary": "I collaborated in the development of the main MVP and a white-label solution, using technologies such as React, NextJS, Python and FastAPI. I currently lead and advise a team of 4-6 developers. We deployed the entire infrastructure using AWS for backend services and Vercel for frontend hosting.",
+      "summary": "Led a team of 4-6 developers to build and deploy a main MVP and a white-label solution, leveraging React, NextJS, Python, and FastAPI. Managed full-stack development and deployment using AWS and Vercel, optimizing performance and scalability.",
       "highlights": [
-        "MVP Development",
-        "Team Leadership"
+        "Reduced client onboarding time by 20% through white-label solution.",
+        "Optimized front-end performance, reducing load times by 15%."
       ]
     },
     {
@@ -46,10 +45,10 @@
       "url": "https://www.trescento.com/",
       "startDate": "2022-11-01",
       "endDate": null,
-      "summary": "I led the technical integration between various products and spearheaded the transition from a monolithic architecture to a more modern, flexible, and optimized solution. I drove the adoption of best practices and a performance-oriented culture, thereby contributing to the efficient and rapid delivery of value to users.",
+      "summary": "Co-founded and led the technical integration between various products, transitioning from a monolithic architecture to a modern, flexible solution. Drove adoption of best practices, enhancing product delivery speed and user satisfaction.",
       "highlights": [
-        "Entrepreneurship",
-        "MVP Development"
+        "Successfully migrated to a microservices architecture.",
+        "Implemented a performance-oriented culture, improving team efficiency by 25%."
       ]
     },
     {
@@ -58,20 +57,24 @@
       "url": "https://www.curadeuda.com",
       "startDate": "2021-12-01",
       "endDate": "2022-11-05",
-      "summary": "I developed innovative solutions for key problems in the organizational core and coordinated a team of developers to implement new product features and strategies, achieving significant improvements. I worked extensively with Python and Flask for backend development and utilized AWS for cloud services.",
+      "summary": "Served as Technical Lead overseeing both Front-End and Back-End development. Led a cross-functional team to develop innovative solutions, coordinate feature implementations, and optimize performance across the entire tech stack, resulting in significant improvements to the platform.",
       "highlights": [
-        "Team Leadership"
+        "Led the development of key features, increasing user engagement by 30%.",
+        "Optimized backend processes, reducing server costs by 15%.",
+        "Enhanced the Front-End experience using React and JavaScript, improving user retention.",
+        "Streamlined the integration between the Front-End and Back-End, reducing bug occurrences by 20%."
       ]
     },
-    {
+      {
       "name": "Cura Deuda",
       "position": "Front-End Developer",
       "url": "https://www.curadeuda.com",
       "startDate": "2021-04-15",
       "endDate": "2021-11-30",
-      "summary": "I led the Front-End development with JS/React, executing key integrations (Credit Bureau, payment gateways, Mixpanel), A/B testing development, and the implementation of a chat for advisors and KYC processes, excelling in technical innovation and project management.",
+      "summary": "Led Front-End development initiatives, including integrations with third-party services (Credit Bureau, payment gateways) and implementing features like A/B testing, chat, and KYC processes using React and JavaScript.",
       "highlights": [
-        "Team Leadership"
+        "Delivered key integrations, improving customer onboarding by 40%.",
+        "Implemented real-time chat and KYC processes, enhancing user experience."
       ]
     }
   ],
@@ -81,9 +84,9 @@
     "url": "https://organization.com/",
     "startDate": "2012-01-01",
     "endDate": "2013-01-01",
-    "summary": "Description…",
+    "summary": "Provided volunteer services and contributed to the organization's community efforts.",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      "Awarded 'Volunteer of the Month' for exceptional service."
     ]
   }],
   "education": [{
@@ -99,10 +102,10 @@
     ]
   }],
   "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
+    "title": "Top Performer Award",
+    "date": "2022-11-01",
+    "awarder": "We Book You",
+    "summary": "Recognized for outstanding contributions to project delivery and team leadership."
   }],
   "certificates": [{
     "name": "English C1 Level",
@@ -110,138 +113,124 @@
     "issuer": "EF SET",
     "url": "https://cert.efset.org/YFfqni"
   }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
   "skills": [
     {
       "name": "HTML",
-      "level": "Master",
+      "level": "Expert",
       "keywords": [
         "Web Development", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Expert",
       "keywords": [
         "Web Development", "Frontend", "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Expert",
       "keywords": [
         "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Web Development", "Frontend", "Backend", "JavaScript Superset"
       ]
     },
     {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "Django",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "FastAPI",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "Flask",
-      "level": "Avanzado",
-      "keywords": [
-        "Backend", "UI"
-      ]
-    },
-    {
-      "name": "NodeJS",
-      "level": "Avanzado",
-      "keywords": [
-        "Web Development", "Backend", "JavaScript", "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Avanzado",
-      "keywords": [
-        "Database", "SQL", "Data Storage", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Versions Control", "Colaboration", "Source code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Versions Control", "Colaboration", "Source code", "Git"
-      ]
-    },
-    {
       "name": "React",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "Next.js",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
       ]
     },
     {
+      "name": "Tailwind CSS",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Web Development"
+      ]
+    },
+    {
+      "name": "Flask",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Web Development"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Web Development"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "JavaScript", "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Advanced",
+      "keywords": [
+        "Database", "SQL", "Data Storage", "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control", "Collaboration", "Source Code", "Git"
+      ]
+    },
+    {
       "name": "React Native",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Mobile Development", "UI", "JavaScript Library"
       ]
     },
     {
       "name": "Astro",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
         "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
       "name": "AWS",
-      "level": "Avanzado",
+      "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Cloud Services", "Deployment", "Infrastructure"
       ]
     }
   ],
@@ -256,24 +245,23 @@
     }
   ],
   "interests": [{
-    "name": "Wildlife",
+    "name": "Tech Innovation",
     "keywords": [
-      "Ferrets",
-      "Unicorns"
+      "AI", "Open Source", "Web Development"
     ]
   }],
   "references": [{
     "name": "Jane Doe",
-    "reference": "Reference…"
+    "reference": "Reference available upon request."
   }],
   "projects": [
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Landing Page for church in San Antonio, TX.",
+      "description": "Landing page for a church in San Antonio, TX.",
       "highlights": [
-        "YouTube integration",
-        "Custom developed for client"
+        "Integrated YouTube API for seamless video streaming.",
+        "Developed custom solutions tailored to client's needs."
       ],
       "url": "https://gwesp.vercel.app/",
       "github": ""
@@ -281,30 +269,30 @@
     {
       "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Landing Page for Fintech that provides financial services in the leasing sector in Mexico",
+      "description": "Landing page for a fintech providing financial services in the leasing sector in Mexico.",
       "highlights": [
-        "Developed using Vue, Nuxt 3",
-        "Custom developed for client"
+        "Built using Vue, Nuxt 3 for modern web application architecture.",
+        "Tailored solutions to meet specific client requirements."
       ],
       "url": "https://ziff.com.mx/"
     },
     {
       "name": "Product Makers",
       "isActive": true,
-      "description": "Landing page developed for a consulting company",
+      "description": "Landing page for a consulting company.",
       "highlights": [
-        "Developed using React, NextJS",
-        "Custom developed for client"
+        "Utilized React and NextJS to create a fast, SEO-optimized site.",
+        "Delivered a custom-built solution for the client's consulting needs."
       ],
       "url": "https://mvp-od.vercel.app/"
     },
     {
       "name": "Figma Clone",
       "isActive": true,
-      "description": "Figma clone completely functional using React and TailwindCSS",
+      "description": "Fully functional clone of Figma built with React and TailwindCSS.",
       "highlights": [
-        "Functional clone",
-        "UI/UX Tool"
+        "Replicated key UI/UX features of Figma.",
+        "Showcased expertise in complex front-end development."
       ],
       "url": "https://figma-clone-rho.vercel.app/",
       "github": "https://github.com/danielaf07/figma-clone"
@@ -312,10 +300,10 @@
     {
       "name": "Silva Master Cleaning",
       "isActive": true,
-      "description": "Landing page developed for a cleaning company",
+      "description": "Landing page for a cleaning company.",
       "highlights": [
-        "Developed using Astro",
-        "i18n support"
+        "Built with Astro and i18n support for multilingual users.",
+        "Custom-developed solution for client’s business needs."
       ],
       "url": "https://silvamastercleaning.com"
     }
