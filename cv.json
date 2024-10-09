@@ -31,8 +31,8 @@
       "name": "We Book You",
       "position": "Tech Lead & Front-End Lead Developer",
       "url": "https://www.webookyou.com/",
-      "startDate": "2022-11-01",
-      "endDate": "2024-05-01",
+      "startDate": "2023-11-02",
+      "endDate": "2024-08-02",
       "summary": "Led a team of 4-6 developers to build and deploy a main MVP and a white-label solution, leveraging React, NextJS, Python, and FastAPI. Managed full-stack development and deployment using AWS and Vercel, optimizing performance and scalability.",
       "highlights": [
         "Reduced client onboarding time by 20% through white-label solution.",
@@ -43,8 +43,8 @@
       "name": "Trescento",
       "position": "Co-Founder & Front-End Developer",
       "url": "https://www.trescento.com/",
-      "startDate": "2022-11-01",
-      "endDate": null,
+      "startDate": "2022-11-02",
+      "endDate": "2023-11-02",
       "summary": "Co-founded and led the technical integration between various products, transitioning from a monolithic architecture to a modern, flexible solution. Drove adoption of best practices, enhancing product delivery speed and user satisfaction.",
       "highlights": [
         "Successfully migrated to a microservices architecture.",
@@ -55,7 +55,7 @@
       "name": "Cura Deuda",
       "position": "Technical Lead",
       "url": "https://www.curadeuda.com",
-      "startDate": "2021-12-01",
+      "startDate": "2021-12-02",
       "endDate": "2022-11-05",
       "summary": "Served as Technical Lead overseeing both Front-End and Back-End development. Led a cross-functional team to develop innovative solutions, coordinate feature implementations, and optimize performance across the entire tech stack, resulting in significant improvements to the platform.",
       "highlights": [
@@ -76,7 +76,19 @@
         "Delivered key integrations, improving customer onboarding by 40%.",
         "Implemented real-time chat and KYC processes, enhancing user experience."
       ]
-    }
+    },
+    {
+    "name": "Freelance",
+    "position": "Full-stack Developer",
+    "url": "",
+    "startDate": "2020-08-15",
+    "endDate": "2021-04-15",
+    "summary": "Developed multiple landing pages and a customer support service for a client, utilizing technologies like React for the frontend and Node.js for the backend, delivering quick and effective solutions for short-term projects.",
+    "highlights": [
+      "Delivered key integrations, improving customer onboarding by 40%.",
+      "Implemented real-time chat and KYC processes, enhancing user experience."
+    ]
+  }
   ],
   "volunteer": [{
     "organization": "Organization",
@@ -94,8 +106,8 @@
     "url": "https://www.utnc.edu.mx/",
     "area": "Mechatronics Engineer",
     "studyType": "Bachelor",
-    "startDate": "2017-01-01",
-    "endDate": "2021-01-02",
+    "startDate": "2017-08-02",
+    "endDate": "2021-04-02",
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
@@ -103,7 +115,7 @@
   }],
   "awards": [{
     "title": "Top Performer Award",
-    "date": "2022-11-01",
+    "date": "2022-11-02",
     "awarder": "We Book You",
     "summary": "Recognized for outstanding contributions to project delivery and team leadership."
   }],
