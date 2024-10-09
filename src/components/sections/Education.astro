@@ -8,11 +8,17 @@ import { education } from "@cv"
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
-        const startYear = new Date(startDate).getFullYear()
-        const endYear =
-          endDate != null ? new Date(endDate).getFullYear() : "Actual"
-        const years = `${startYear} - ${endYear}`
+        const formatMonthShort = (date: string) => {
+          return new Date(date).toLocaleString('en-US', { month: 'short' });
+        };
 
+        const startYear = new Date(startDate).getFullYear();
+        const startMonth = formatMonthShort(startDate);
+
+        const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
+        const endMonth = endDate != null ? formatMonthShort(endDate) : "";
+
+        const years = `${startMonth} ${startYear} - ${endMonth ? `${endMonth} ${endYear}` : endYear}`;
         return (
           <li>
             <article>
