@@ -190,6 +190,13 @@
       ]
     },
     {
+      "name": "Django",
+      "level": "Advanced",
+      "keywords": [
+        "Backend", "Web Development"
+      ]
+    },
+    {
       "name": "FastAPI",
       "level": "Advanced",
       "keywords": [
