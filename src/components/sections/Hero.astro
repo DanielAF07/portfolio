@@ -32,7 +32,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
       <h2>{label}</h2>
       <span>
         <WorldMap />
-        {city}, {region}
+        <span id="location">{city}, {region}</span>
       </span>
       <footer class="print">
         {printInfo}
@@ -83,7 +83,6 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     <figure>
       <img src={image} alt={name} />
     </figure>
-    <p id="country-content">...</p>
   </div>
 </Section>
 
@@ -194,14 +193,10 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
 const country = getCookie('country');
 
 document.addEventListener('DOMContentLoaded', () => {
-  const contentElement = document.getElementById('country-content');
-  if(!contentElement) return console.log('No content element detected')
+  const locationElement = document.getElementById('location');
+  if(!locationElement) return console.log('No content element detected')
   if (country === 'US') {
-    contentElement.textContent = 'Welcome from the United States!';
-  } else if (country === 'FR') {
-    contentElement.textContent = 'Bienvenue de France!';
-  } else {
-    contentElement.textContent = `Hello from ${country}!`;
+    locationElement.textContent = 'San Antonio, Texas';
   }
 });
 
