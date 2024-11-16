@@ -8,10 +8,10 @@ export const config = {
 };
 
 export default function middleware(request: Request) {
-  const url = new URL(request.url);
   const { country } = geolocation(request);
   // You can also get the country using dot notation on the function
   // const country = geolocation(request).country;
+  console.log(country)
 
   const response = new Response(null, {
     headers: {

@@ -2,6 +2,10 @@
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
     "baseUrl": ".",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "verbatimModuleSyntax": false,
+    "esModuleInterop": true,
     "paths": {
       "@cv": [
         "./cv.json"
