@@ -22,6 +22,7 @@ const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
 const linkedUrl = linkedInfo?.url
 
 const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+
 ---
 
 <Section>
@@ -82,6 +83,7 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     <figure>
       <img src={image} alt={name} />
     </figure>
+    <p id="country-content">...</p>
   </div>
 </Section>
 
@@ -181,3 +183,26 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     }
   }
 </style>
+
+<script>
+  function getCookie(name: string) {
+  const value = `; ${document.cookie}`;
+  const parts = value.split(`; ${name}=`);
+  if (Array.isArray(parts) && parts.length === 2) return parts.pop()!.split(';').shift();
+}
+
+const country = getCookie('country');
+
+document.addEventListener('DOMContentLoaded', () => {
+  const contentElement = document.getElementById('country-content');
+  if(!contentElement) return console.log('No content element detected')
+  if (country === 'US') {
+    contentElement.textContent = 'Welcome from the United States!';
+  } else if (country === 'FR') {
+    contentElement.textContent = 'Bienvenue de France!';
+  } else {
+    contentElement.textContent = `Hello from ${country}!`;
+  }
+});
+
+</script>
