@@ -251,6 +251,13 @@
       "keywords": [
         "Cloud Services", "Deployment", "Infrastructure"
       ]
+    },
+    {
+      "name": "Github Actions",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
     }
   ],
   "languages": [
