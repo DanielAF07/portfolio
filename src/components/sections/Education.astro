@@ -19,7 +19,7 @@ import { education } from "@cv"
         const endMonth = endDate != null ? formatMonthShort(endDate) : "";
 
         let years = `${startMonth} ${startYear} - ${endMonth ? `${endMonth} ${endYear}` : endYear}`;
-        if (startDate === null) years = '';
+        if (startDate === '') years = '';
         return (
           <li>
             <article>

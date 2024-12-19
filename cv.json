@@ -107,8 +107,8 @@
       "url": "https://www.utnc.edu.mx/",
       "area": "Ingeniero en Mecatrónica / Titulo en tramite",
       "studyType": "Licenciatura",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "",
+      "endDate": "",
       "score": "4.0",
     "courses": [
         "DB1101 - SQL Básico"
@@ -119,8 +119,8 @@
       "url": "https://www.utnc.edu.mx/",
       "area": "Técnico Superior Universitario en Mecatrónica",
       "studyType": "Licenciatura",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "",
+      "endDate": "",
       "score": "4.0",
       "courses": [
         "DB1101 - SQL Básico"
@@ -131,8 +131,8 @@
       "url": "https://www.utnc.edu.mx/",
       "area": "Técnico en Mecatrónica",
       "studyType": "Licenciatura",
-      "startDate": null,
-      "endDate": null,
+      "startDate": "",
+      "endDate": "",
       "score": "4.0",
       "courses": [
         "DB1101 - SQL Básico"
