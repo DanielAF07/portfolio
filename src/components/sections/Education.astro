@@ -4,12 +4,12 @@ import Section from "../Section.astro"
 import { education } from "@cv"
 ---
 
-<Section title="Education">
+<Section title="Educación">
   <ul>
     {
       education.map(({ institution, startDate, endDate, area }) => {
         const formatMonthShort = (date: string) => {
-          return new Date(date).toLocaleString('en-US', { month: 'short' });
+          return new Date(date).toLocaleString('es-MX', { month: 'short' });
         };
 
         const startYear = new Date(startDate).getFullYear();
@@ -18,7 +18,8 @@ import { education } from "@cv"
         const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
         const endMonth = endDate != null ? formatMonthShort(endDate) : "";
 
-        const years = `${startMonth} ${startYear} - ${endMonth ? `${endMonth} ${endYear}` : endYear}`;
+        let years = `${startMonth} ${startYear} - ${endMonth ? `${endMonth} ${endYear}` : endYear}`;
+        if (startDate === null) years = '';
         return (
           <li>
             <article>

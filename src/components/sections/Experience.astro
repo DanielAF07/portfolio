@@ -4,13 +4,13 @@ import Section from "../Section.astro"
 import { work } from "@cv"
 ---
 
-<Section title="Work experience">
+<Section title="Experiencia Laboral">
   <ul>
     {
       work.map(
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
           const formatMonthShort = (date: string) => {
-            return new Date(date).toLocaleString('en-US', { month: 'short' });
+            return new Date(date).toLocaleString('es-MX', { month: 'short' });
           };
 
           const startYear = new Date(startDate).getFullYear();

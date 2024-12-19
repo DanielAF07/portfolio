@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Front-End Developer with +4 years of experience & Tech Lead",
+    "label": "Ingeniero de Software con más de 4 años de experiencia",
     "image": "/me.webp",
     "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Front-End Developer with over 4 years of experience building interactive, high-performance user interfaces using ReactJS, NextJS, and state management libraries like Redux and Zustand. Experienced in leading teams and delivering scalable solutions. Proficient in Back-End development with Python (Flask, FastAPI) and NodeJS, as well as mobile development with React Native and Flutter.",
+    "summary": "Ingeniero de Software con más de 4 años de experiencia en el desarrollo de soluciones tecnológicas, incluyendo sistemas de Front-End y Back-End. Experiencia en la creación de interfaces de usuario eficientes y en la implementación de arquitecturas escalables utilizando tecnologías como ReactJS, NextJS, Python (Flask, FastAPI) y NodeJS.",
     "location": {
       "postalCode": "26533",
       "city": "Coahuila",
@@ -29,150 +29,148 @@
   "work": [
     {
       "name": "We Book You",
-      "position": "Tech Lead / Front-End Developer",
+      "position": "Lider Técnico / Ingeniero de Software",
       "url": "https://www.webookyou.com/",
       "startDate": "2023-11-02",
       "endDate": "2024-08-02",
-      "summary": "Led a team of 4-6 developers to build and deploy a main MVP and a white-label solution, leveraging React, NextJS, Python, and FastAPI. Managed full-stack development and deployment using AWS and Vercel, optimizing performance and scalability.",
+      "summary": "Lideré un equipo de 4-6 desarrolladores para construir y desplegar un MVP principal y una solución de marca blanca, utilizando React, NextJS, Python y FastAPI. Gestioné el desarrollo Full-Stack y el despliegue en AWS y Vercel, optimizando el rendimiento y la escalabilidad.",
       "highlights": [
-        "Reduced client onboarding time by 20% through white-label solution.",
-        "Optimized front-end performance, reducing load times by 15%."
+        "Reduje el tiempo de incorporación de clientes en un 20% mediante una solución de marca blanca.",
+        "Optimizé el rendimiento del Front-End, reduciendo los tiempos de carga en un 15%."
       ]
     },
     {
       "name": "Trescento",
-      "position": "Co-Founder / Full-stack Developer",
+      "position": "Co-Fundador / Ingeniero de Software",
       "url": "https://www.trescento.com/",
       "startDate": "2022-11-02",
       "endDate": "2023-11-02",
-      "summary": "Co-founded and led the technical integration between various products, transitioning from a monolithic architecture to a modern, flexible solution. Drove adoption of best practices, enhancing product delivery speed and user satisfaction.",
+      "summary": "Co-fundé y lideré la integración técnica entre diversos productos, pasando de una arquitectura monolítica a una solución moderna y flexible. Implementé mejores prácticas, mejorando la velocidad de entrega de productos y la satisfacción del usuario.",
       "highlights": [
-        "Successfully migrated to a microservices architecture.",
-        "Implemented a performance-oriented culture, improving team efficiency by 25%."
+        "Migración exitosa a una arquitectura de microservicios.",
+        "Implementé una cultura orientada al rendimiento, mejorando la eficiencia del equipo en un 25%."
       ]
     },
     {
       "name": "Cura Deuda",
-      "position": "Tech Lead / Front-End Developer",
+      "position": "Lider Técnico / Ingeniero de Software",
       "url": "https://www.curadeuda.com",
       "startDate": "2021-12-02",
       "endDate": "2022-11-05",
-      "summary": "Served as Technical Lead overseeing both Front-End and Back-End development. Led a cross-functional team to develop innovative solutions, coordinate feature implementations, and optimize performance across the entire tech stack, resulting in significant improvements to the platform.",
+      "summary": "Serví como Líder Técnico supervisando el desarrollo tanto del Front-End como del Back-End. Dirigí un equipo multifuncional para desarrollar soluciones innovadoras, coordinar la implementación de funciones y optimizar el rendimiento en toda la pila tecnológica, logrando mejoras significativas en la plataforma.",
       "highlights": [
-        "Led the development of key features, increasing user engagement by 30%.",
-        "Optimized backend processes, reducing server costs by 15%.",
-        "Enhanced the Front-End experience using React and JavaScript, improving user retention.",
-        "Streamlined the integration between the Front-End and Back-End, reducing bug occurrences by 20%."
-      ]
-    },
-      {
-      "name": "Cura Deuda",
-      "position": "Front-End Developer",
-      "url": "https://www.curadeuda.com",
-      "startDate": "2021-04-15",
-      "endDate": "2021-11-30",
-      "summary": "Led Front-End development initiatives, including integrations with third-party services (Credit Bureau, payment gateways) and implementing features like A/B testing, chat, and KYC processes using React and JavaScript.",
-      "highlights": [
-        "Delivered key integrations, improving customer onboarding by 40%.",
-        "Implemented real-time chat and KYC processes, enhancing user experience."
+        "Lideré el desarrollo de funciones clave, aumentando la interacción de los usuarios en un 30%.",
+        "Optimizé procesos en el Back-End, reduciendo costos de servidor en un 15%.",
+        "Mejoré la experiencia del Front-End utilizando React y JavaScript, incrementando la retención de usuarios.",
+        "Simplifiqué la integración entre el Front-End y el Back-End, reduciendo errores en un 20%."
       ]
     },
     {
-    "name": "External Front-End Development Consultant",
-    "position": "",
-    "url": "",
-    "startDate": "2020-08-15",
-    "endDate": "2021-04-15",
-    "summary": "Developed multiple landing pages and a customer support service for a client, utilizing technologies like React for the frontend and Node.js for the backend, delivering quick and effective solutions for short-term projects.",
-    "highlights": [
-      "Delivered key integrations, improving customer onboarding by 40%.",
-      "Implemented real-time chat and KYC processes, enhancing user experience."
-    ]
-  }
+      "name": "Cura Deuda",
+      "position": "Ingeniero de Software Front-End",
+      "url": "https://www.curadeuda.com",
+      "startDate": "2021-04-15",
+      "endDate": "2021-11-30",
+      "summary": "Lideré iniciativas de desarrollo Front-End, incluidas integraciones con servicios de terceros (Buró de Crédito, pasarelas de pago) e implementé funciones como pruebas A/B, chat y procesos KYC utilizando React y JavaScript.",
+      "highlights": [
+        "Entregué integraciones clave, mejorando la incorporación de clientes en un 40%.",
+        "Implementé chat en tiempo real y procesos KYC, mejorando la experiencia del usuario."
+      ]
+    },
+    {
+      "name": "Consultor Externo Desarrollador",
+      "position": "",
+      "url": "",
+      "startDate": "2020-08-15",
+      "endDate": "2021-04-15",
+      "summary": "Desarrollé múltiples landing pages y un servicio de asistencia al cliente para un cliente, utilizando tecnologías como React para el Front-End y Node.js para el Back-End, entregando soluciones rápidas y efectivas para proyectos a corto plazo.",
+      "highlights": [
+        "Creación de landing pages personalizadas según las necesidades del cliente.",
+        "Desarrollo eficiente de servicios de asistencia para mejorar la interacción con los usuarios."
+      ]
+    }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
+    "organization": "Organización",
+    "position": "Voluntario",
     "url": "https://organization.com/",
     "startDate": "2012-01-01",
     "endDate": "2013-01-01",
-    "summary": "Provided volunteer services and contributed to the organization's community efforts.",
+    "summary": "Proporcioné servicios de voluntariado y contribuí a los esfuerzos comunitarios de la organización.",
     "highlights": [
-      "Awarded 'Volunteer of the Month' for exceptional service."
+      "Reconocido como 'Voluntario del Mes' por servicio excepcional."
     ]
   }],
-  "education": [{
-    "institution": "Universidad Tecnológica del Norte de Coahuila",
-    "url": "https://www.utnc.edu.mx/",
-    "area": "Mechatronics Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2017-08-02",
-    "endDate": "2021-04-02",
-    "score": "4.0",
+  "education": [
+    {
+      "institution": "Universidad Tecnológica del Norte de Coahuila",
+      "url": "https://www.utnc.edu.mx/",
+      "area": "Ingeniero en Mecatrónica / Titulo en tramite",
+      "studyType": "Licenciatura",
+      "startDate": null,
+      "endDate": null,
+      "score": "4.0",
     "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
+        "DB1101 - SQL Básico"
+      ]
+    },
+    {
+      "institution": "Universidad Tecnológica del Norte de Coahuila",
+      "url": "https://www.utnc.edu.mx/",
+      "area": "Técnico Superior Universitario en Mecatrónica",
+      "studyType": "Licenciatura",
+      "startDate": null,
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - SQL Básico"
+      ]
+    },
+    {
+      "institution": "Colegio de Estudios Científicos y Tecnológicos del Estado de Coahuila",
+      "url": "https://www.utnc.edu.mx/",
+      "area": "Técnico en Mecatrónica",
+      "studyType": "Licenciatura",
+      "startDate": null,
+      "endDate": null,
+      "score": "4.0",
+      "courses": [
+        "DB1101 - SQL Básico"
+      ]
+    }
+  ],
   "awards": [{
-    "title": "Top Performer Award",
+    "title": "Reconocimiento al Mejor Desempeño",
     "date": "2022-11-02",
     "awarder": "We Book You",
-    "summary": "Recognized for outstanding contributions to project delivery and team leadership."
+    "summary": "Reconocido por contribuciones sobresalientes en la entrega de proyectos y liderazgo de equipo."
   }],
   "certificates": [{
-    "name": "English C1 Level",
-    "date": "March 2021",
+    "name": "Nivel de Inglés C1",
+    "date": "Marzo 2021",
     "issuer": "EF SET",
     "url": "https://cert.efset.org/YFfqni"
   }],
   "skills": [
     {
-      "name": "HTML",
-      "level": "Expert",
-      "keywords": [
-        "Web Development", "Frontend"
-      ]
-    },
-    {
-      "name": "CSS",
-      "level": "Expert",
-      "keywords": [
-        "Web Development", "Frontend", "Responsive Design"
-      ]
-    },
-    {
-      "name": "JavaScript",
+      "name": "C",
       "level": "Expert",
       "keywords": [
         "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Advanced",
+      "name": "C++",
+      "level": "Expert",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
-      "name": "React",
-      "level": "Advanced",
+      "name": "HTML / CSS / JavaScript",
+      "level": "Expert",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "Tailwind CSS",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+        "Web Development", "Frontend", "Backend", "Fullstack"
       ]
     },
     {
@@ -183,66 +181,10 @@
       ]
     },
     {
-      "name": "Flask",
-      "level": "Advanced",
-      "keywords": [
-        "Backend", "Web Development"
-      ]
-    },
-    {
-      "name": "Django",
-      "level": "Advanced",
-      "keywords": [
-        "Backend", "Web Development"
-      ]
-    },
-    {
-      "name": "FastAPI",
-      "level": "Advanced",
-      "keywords": [
-        "Backend", "Web Development"
-      ]
-    },
-    {
-      "name": "NodeJS",
-      "level": "Advanced",
-      "keywords": [
-        "Backend", "JavaScript", "Server"
-      ]
-    },
-    {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
         "Database", "SQL", "Data Storage", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control", "Collaboration", "Source Code"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Advanced",
-      "keywords": [
-        "Version Control", "Collaboration", "Source Code", "Git"
-      ]
-    },
-    {
-      "name": "React Native",
-      "level": "Advanced",
-      "keywords": [
-        "Mobile Development", "UI", "JavaScript Library"
-      ]
-    },
-    {
-      "name": "Astro",
-      "level": "Advanced",
-      "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
       ]
     },
     {
@@ -253,41 +195,77 @@
       ]
     },
     {
-      "name": "Github Actions",
+      "name": "Electricidad / Electrónica",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
+    },
+    {
+      "name": "CAD/CAM",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
+    },
+    {
+      "name": "AutoCAD",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
+    },
+    {
+      "name": "SolidWorks",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
+    },
+    {
+      "name": "CAD/CAM",
+      "level": "Advanced",
+      "keywords": [
+        "Cloud Services", "Deployment", "Infrastructure"
+      ]
+    },
+    {
+      "name": "Redes",
       "level": "Advanced",
       "keywords": [
         "Cloud Services", "Deployment", "Infrastructure"
       ]
     }
+    
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "Español",
+      "fluency": "Nativo"
     },
     {
-      "language": "English",
-      "fluency": "Advanced"
+      "language": "Inglés",
+      "fluency": "Avanzado"
     }
   ],
   "interests": [{
-    "name": "Tech Innovation",
+    "name": "Innovación Tecnológica",
     "keywords": [
-      "AI", "Open Source", "Web Development"
+      "IA", "Código Abierto", "Desarrollo Web"
     ]
   }],
   "references": [{
     "name": "Jane Doe",
-    "reference": "Reference available upon request."
+    "reference": "Referencias disponibles bajo solicitud."
   }],
   "projects": [
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Landing page for a church in San Antonio, TX.",
+      "description": "Página de aterrizaje para una iglesia en San Antonio, TX.",
       "highlights": [
-        "Integrated YouTube API for seamless video streaming.",
-        "Developed custom solutions tailored to client's needs."
+        "Integré la API de YouTube para transmisión de video.",
+        "Desarrollé soluciones personalizadas para las necesidades del cliente."
       ],
       "url": "https://gwesp.vercel.app/",
       "github": ""
@@ -295,30 +273,30 @@
     {
       "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Landing page for a fintech providing financial services in the leasing sector in Mexico.",
+      "description": "Página de aterrizaje para una fintech que ofrece servicios financieros en el sector de arrendamiento en México.",
       "highlights": [
-        "Built using Vue, Nuxt 3 for modern web application architecture.",
-        "Tailored solutions to meet specific client requirements."
+        "Desarrollada utilizando Vue y Nuxt 3 para una arquitectura moderna de aplicaciones web.",
+        "Soluciones personalizadas para cumplir con los requisitos específicos del cliente."
       ],
       "url": "https://ziff.com.mx/"
     },
     {
       "name": "Product Makers",
       "isActive": true,
-      "description": "Landing page for a consulting company.",
+      "description": "Página de aterrizaje para una empresa de consultoría.",
       "highlights": [
-        "Utilized React and NextJS to create a fast, SEO-optimized site.",
-        "Delivered a custom-built solution for the client's consulting needs."
+        "Se utilizó React y NextJS para crear un sitio rápido y optimizado para SEO.",
+        "Entrega de una solución personalizada para las necesidades de consultoría del cliente."
       ],
       "url": "https://mvp-od.vercel.app/"
     },
     {
       "name": "Figma Clone",
       "isActive": true,
-      "description": "Fully functional clone of Figma built with React and TailwindCSS.",
+      "description": "Clon completamente funcional de Figma desarrollado con React y TailwindCSS.",
       "highlights": [
-        "Replicated key UI/UX features of Figma.",
-        "Showcased expertise in complex front-end development."
+        "Replicación de las principales características de UI/UX de Figma.",
+        "Demostración de experiencia en desarrollo front-end complejo."
       ],
       "url": "https://figma-clone-rho.vercel.app/",
       "github": "https://github.com/danielaf07/figma-clone"
@@ -326,10 +304,10 @@
     {
       "name": "Silva Master Cleaning",
       "isActive": true,
-      "description": "Landing page for a cleaning company.",
+      "description": "Página de aterrizaje para una empresa de limpieza.",
       "highlights": [
-        "Built with Astro and i18n support for multilingual users.",
-        "Custom-developed solution for client’s business needs."
+        "Construida con Astro e i18n para soporte multilingüe.",
+        "Solución desarrollada a medida para las necesidades comerciales del cliente."
       ],
       "url": "https://silvamastercleaning.com"
     }
