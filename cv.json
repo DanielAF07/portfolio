@@ -28,6 +28,17 @@
   },
   "work": [
     {
+      "name": "Gluo/Orium",
+      "position": "Full-Stack Developer",
+      "url": "https://orium.com/",
+      "startDate": "2025-01-20",
+      "summary": "Worked on the main site and promotional pages for a client, leveraging NextJS, TailwindCSS, and Contentful as a CMS for content management. Focused on building and optimizing responsive, scalable web solutions for a seamless user experience."
+      "highlights": [
+        "Reduced client onboarding time by 20% through white-label solution.",
+        "Optimized front-end performance, reducing load times by 15%."
+      ]
+    },
+    {
       "name": "We Book You",
       "position": "Tech Lead / Front-End Developer",
       "url": "https://www.webookyou.com/",
