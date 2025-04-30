@@ -32,6 +32,7 @@
       "position": "Full-Stack Developer",
       "url": "https://orium.com/",
       "startDate": "2025-01-20",
+      "endDate": null,
       "summary": "Worked on the main site and promotional pages for a client, leveraging NextJS, TailwindCSS, and Contentful as a CMS for content management. Focused on building and optimizing responsive, scalable web solutions for a seamless user experience."
       "highlights": [
         "Reduced client onboarding time by 20% through white-label solution.",
