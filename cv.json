@@ -77,7 +77,7 @@
         "Streamlined the integration between the Front-End and Back-End, reducing bug occurrences by 20%."
       ]
     },
-      {
+    {
       "name": "Cura Deuda",
       "position": "Front-End Developer",
       "url": "https://www.curadeuda.com",
@@ -90,185 +90,235 @@
       ]
     },
     {
-    "name": "External Front-End Development Consultant",
-    "position": "",
-    "url": "",
-    "startDate": "2020-08-15",
-    "endDate": "2021-04-15",
-    "summary": "Developed multiple landing pages and a customer support service for a client, utilizing technologies like React for the frontend and Node.js for the backend, delivering quick and effective solutions for short-term projects.",
-    "highlights": [
-      "Delivered key integrations, improving customer onboarding by 40%.",
-      "Implemented real-time chat and KYC processes, enhancing user experience."
-    ]
-  }
+      "name": "External Front-End Development Consultant",
+      "position": "",
+      "url": "",
+      "startDate": "2020-08-15",
+      "endDate": "2021-04-15",
+      "summary": "Developed multiple landing pages and a customer support service for a client, utilizing technologies like React for the frontend and Node.js for the backend, delivering quick and effective solutions for short-term projects.",
+      "highlights": [
+        "Delivered key integrations, improving customer onboarding by 40%.",
+        "Implemented real-time chat and KYC processes, enhancing user experience."
+      ]
+    }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Provided volunteer services and contributed to the organization's community efforts.",
-    "highlights": [
-      "Awarded 'Volunteer of the Month' for exceptional service."
-    ]
-  }],
-  "education": [{
-    "institution": "Universidad Tecnológica del Norte de Coahuila",
-    "url": "https://www.utnc.edu.mx/",
-    "area": "Mechatronics Engineer",
-    "studyType": "Bachelor",
-    "startDate": "2017-08-02",
-    "endDate": "2021-04-02",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Top Performer Award",
-    "date": "2022-11-02",
-    "awarder": "We Book You",
-    "summary": "Recognized for outstanding contributions to project delivery and team leadership."
-  }],
-  "certificates": [{
-    "name": "English C1 Level",
-    "date": "March 2021",
-    "issuer": "EF SET",
-    "url": "https://cert.efset.org/YFfqni"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Provided volunteer services and contributed to the organization's community efforts.",
+      "highlights": [
+        "Awarded 'Volunteer of the Month' for exceptional service."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica del Norte de Coahuila",
+      "url": "https://www.utnc.edu.mx/",
+      "area": "Mechatronics Engineer",
+      "studyType": "Bachelor",
+      "startDate": "2017-08-02",
+      "endDate": "2021-04-02",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top Performer Award",
+      "date": "2022-11-02",
+      "awarder": "We Book You",
+      "summary": "Recognized for outstanding contributions to project delivery and team leadership."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "English C1 Level",
+      "date": "March 2021",
+      "issuer": "EF SET",
+      "url": "https://cert.efset.org/YFfqni"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Expert",
       "keywords": [
-        "Web Development", "Frontend"
+        "Web Development",
+        "Frontend"
       ]
     },
     {
       "name": "CSS",
       "level": "Expert",
       "keywords": [
-        "Web Development", "Frontend", "Responsive Design"
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
       ]
     },
     {
       "name": "JavaScript",
       "level": "Expert",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "Fullstack"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "Backend", "JavaScript Superset"
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "React",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
       "name": "Next.js",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "Tailwind CSS",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "CSS Framework", "Responsive Design"
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
       ]
     },
     {
       "name": "Python",
       "level": "Advanced",
       "keywords": [
-        "Backend", "Web Development"
+        "Backend",
+        "Web Development"
       ]
     },
     {
       "name": "Flask",
       "level": "Advanced",
       "keywords": [
-        "Backend", "Web Development"
+        "Backend",
+        "Web Development"
       ]
     },
     {
       "name": "Django",
       "level": "Advanced",
       "keywords": [
-        "Backend", "Web Development"
+        "Backend",
+        "Web Development"
       ]
     },
     {
       "name": "FastAPI",
       "level": "Advanced",
       "keywords": [
-        "Backend", "Web Development"
+        "Backend",
+        "Web Development"
       ]
     },
     {
       "name": "NodeJS",
       "level": "Advanced",
       "keywords": [
-        "Backend", "JavaScript", "Server"
+        "Backend",
+        "JavaScript",
+        "Server"
       ]
     },
     {
       "name": "MySQL",
       "level": "Advanced",
       "keywords": [
-        "Database", "SQL", "Data Storage", "Backend"
+        "Database",
+        "SQL",
+        "Data Storage",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Advanced",
       "keywords": [
-        "Version Control", "Collaboration", "Source Code"
+        "Version Control",
+        "Collaboration",
+        "Source Code"
       ]
     },
     {
       "name": "GitHub",
       "level": "Advanced",
       "keywords": [
-        "Version Control", "Collaboration", "Source Code", "Git"
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
       ]
     },
     {
       "name": "React Native",
       "level": "Advanced",
       "keywords": [
-        "Mobile Development", "UI", "JavaScript Library"
+        "Mobile Development",
+        "UI",
+        "JavaScript Library"
       ]
     },
     {
       "name": "Astro",
       "level": "Advanced",
       "keywords": [
-        "Web Development", "Frontend", "JavaScript Library", "UI"
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
       ]
     },
     {
       "name": "AWS",
       "level": "Advanced",
       "keywords": [
-        "Cloud Services", "Deployment", "Infrastructure"
+        "Cloud Services",
+        "Deployment",
+        "Infrastructure"
       ]
     },
     {
       "name": "Github Actions",
       "level": "Advanced",
       "keywords": [
-        "Cloud Services", "Deployment", "Infrastructure"
+        "Cloud Services",
+        "Deployment",
+        "Infrastructure"
       ]
     }
   ],
@@ -282,17 +332,34 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Tech Innovation",
-    "keywords": [
-      "AI", "Open Source", "Web Development"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference available upon request."
-  }],
+  "interests": [
+    {
+      "name": "Tech Innovation",
+      "keywords": [
+        "AI",
+        "Open Source",
+        "Web Development"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference available upon request."
+    }
+  ],
   "projects": [
+    {
+      "name": "GH Solar MX",
+      "isActive": true,
+      "description": "Website and interactive web app for solar panel installation quotations.",
+      "highlights": [
+        "Implemented Appwrite as backend for data storage and authentication.",
+        "Configured automated email notifications for quote submissions and customer inquiries."
+      ],
+      "url": "https://www.ghsolar.com.mx/",
+      "github": ""
+    },
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
@@ -341,9 +408,9 @@
       "description": "Landing page for a cleaning company.",
       "highlights": [
         "Built with Astro and i18n support for multilingual users.",
-        "Custom-developed solution for client’s business needs."
+        "Custom-developed solution for client's business needs."
       ],
-      "url": "https://silvamastercleaning.com"
+      "url": "https://racoon-smc.vercel.app/"
     }
   ]
 }
