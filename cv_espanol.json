@@ -67,28 +67,16 @@
     },
     {
       "name": "Cura Deuda",
-      "position": "Tech Lead / Front-End Developer",
-      "url": "https://www.curadeuda.com",
-      "startDate": "2021-12-02",
-      "endDate": "2022-11-05",
-      "summary": "Funcioné como Líder Técnico supervisando el desarrollo Front-End y Back-End. Lideré un equipo multifuncional para desarrollar soluciones innovadoras, coordinar implementación de características y optimizar el rendimiento de todo el stack tecnológico.",
-      "highlights": [
-        "Lideré el desarrollo de características clave, aumentando el engagement de usuarios en 30%.",
-        "Optimicé procesos de backend, reduciendo costos de servidor en 15%.",
-        "Mejoré la experiencia Front-End con React y JavaScript, aumentando la retención de usuarios.",
-        "Optimicé la integración entre Front-End y Back-End, reduciendo bugs en 20%."
-      ]
-    },
-    {
-      "name": "Cura Deuda",
-      "position": "Front-End Developer",
+      "position": "Front-End Developer → Tech Lead",
       "url": "https://www.curadeuda.com",
       "startDate": "2021-04-15",
-      "endDate": "2021-11-30",
-      "summary": "Lideré iniciativas de desarrollo Front-End, incluyendo integraciones con servicios de terceros (Buró de Crédito, pasarelas de pago) e implementación de características como pruebas A/B, chat y procesos de KYC con React y JavaScript.",
+      "endDate": "2022-11-05",
+      "summary": "Entré como Front-End Developer y fui promovido a Líder Técnico durante el primer año. Empecé entregando integraciones clave (Buró de Crédito, pasarelas de pago, KYC) con React y JavaScript, y luego lideré un equipo multifuncional supervisando el desarrollo Front-End y Back-End y optimizando el rendimiento de todo el stack.",
       "highlights": [
-        "Entregué integraciones clave, mejorando el onboarding de clientes en 40%.",
-        "Implementé chat en tiempo real y procesos de KYC, mejorando la experiencia de usuario."
+        "Promovido a Tech Lead durante el primer año, liderando un equipo multifuncional.",
+        "Entregué integraciones con terceros (Buró de Crédito, pasarelas de pago, KYC), mejorando el onboarding en 40%.",
+        "Lideré características clave que aumentaron el engagement en 30% y redujeron costos de servidor en 15%.",
+        "Optimicé la integración Front-End/Back-End, reduciendo bugs en 20%."
       ]
     }
   ],

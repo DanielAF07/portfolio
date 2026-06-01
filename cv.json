@@ -66,28 +66,16 @@
     },
     {
       "name": "Cura Deuda",
-      "position": "Tech Lead / Front-End Developer",
-      "url": "https://www.curadeuda.com",
-      "startDate": "2021-12-02",
-      "endDate": "2022-11-05",
-      "summary": "Served as Technical Lead overseeing both Front-End and Back-End development. Led a cross-functional team to develop innovative solutions, coordinate feature implementations, and optimize performance across the entire tech stack, resulting in significant improvements to the platform.",
-      "highlights": [
-        "Led the development of key features, increasing user engagement by 30%.",
-        "Optimized backend processes, reducing server costs by 15%.",
-        "Enhanced the Front-End experience using React and JavaScript, improving user retention.",
-        "Streamlined the integration between the Front-End and Back-End, reducing bug occurrences by 20%."
-      ]
-    },
-    {
-      "name": "Cura Deuda",
-      "position": "Front-End Developer",
+      "position": "Front-End Developer → Tech Lead",
       "url": "https://www.curadeuda.com",
       "startDate": "2021-04-15",
-      "endDate": "2021-11-30",
-      "summary": "Led Front-End development initiatives, including integrations with third-party services (Credit Bureau, payment gateways) and implementing features like A/B testing, chat, and KYC processes using React and JavaScript.",
+      "endDate": "2022-11-05",
+      "summary": "Joined as a Front-End Developer and was promoted to Technical Lead within the first year. Started by delivering key integrations (Credit Bureau, payment gateways, KYC) with React and JavaScript, then went on to lead a cross-functional team overseeing Front-End and Back-End development and optimizing performance across the stack.",
       "highlights": [
-        "Delivered key integrations, improving customer onboarding by 40%.",
-        "Implemented real-time chat and KYC processes, enhancing user experience."
+        "Promoted to Tech Lead within the first year, leading a cross-functional team.",
+        "Delivered third-party integrations (Credit Bureau, payment gateways, KYC), improving customer onboarding by 40%.",
+        "Led key features that increased user engagement by 30% and reduced server costs by 15%.",
+        "Streamlined Front-End/Back-End integration, reducing bug occurrences by 20%."
       ]
     }
   ],
