@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Front-End Developer with +4 years of experience & Tech Lead",
+    "label": "Software Engineer · AI-Native Developer & Tech Lead",
     "image": "/me.webp",
     "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Front-End Developer with over 4 years of experience building interactive, high-performance user interfaces using ReactJS, NextJS, and state management libraries like Redux and Zustand. Experienced in leading teams and delivering scalable solutions. Proficient in Back-End development with Python (Flask, FastAPI) and NodeJS, as well as mobile development with React Native and Flutter.",
+    "summary": "Software Engineer with 5+ years building high-performance products with React, Next.js, TypeScript, and Python. AI-native developer: I build custom MCP servers, Skills, and agentic workflows (Claude Code, Cursor) and ship LLM features to production. As a Tech Lead, I've driven AI adoption to accelerate delivery without sacrificing quality.",
     "location": {
       "postalCode": "26533",
       "city": "Coahuila",
@@ -33,10 +33,11 @@
       "url": "https://orium.com/",
       "startDate": "2025-01-20",
       "endDate": null,
-      "summary": "Worked on the main site and promotional pages for a client, leveraging NextJS, TailwindCSS, and Contentful as a CMS for content management. Focused on building and optimizing responsive, scalable web solutions for a seamless user experience.",
+      "summary": "Building the main site and promotional pages for a client with NextJS, TailwindCSS, and Contentful as a CMS. I drive AI-augmented development across the team — building custom MCP servers and Skills with Claude Code and Cursor to standardize and accelerate our workflow while keeping quality high.",
       "highlights": [
-        "Reduced client onboarding time by 20% through white-label solution.",
-        "Optimized front-end performance, reducing load times by 15%."
+        "Built custom MCP servers and Skills to standardize AI-augmented workflows across the team.",
+        "Accelerated delivery by introducing agentic coding practices (Claude Code, Cursor) without sacrificing quality.",
+        "Built reusable, content-driven components integrated with Contentful CMS."
       ]
     },
     {
@@ -88,31 +89,6 @@
         "Delivered key integrations, improving customer onboarding by 40%.",
         "Implemented real-time chat and KYC processes, enhancing user experience."
       ]
-    },
-    {
-      "name": "External Front-End Development Consultant",
-      "position": "",
-      "url": "",
-      "startDate": "2020-08-15",
-      "endDate": "2021-04-15",
-      "summary": "Developed multiple landing pages and a customer support service for a client, utilizing technologies like React for the frontend and Node.js for the backend, delivering quick and effective solutions for short-term projects.",
-      "highlights": [
-        "Delivered key integrations, improving customer onboarding by 40%.",
-        "Implemented real-time chat and KYC processes, enhancing user experience."
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "url": "https://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Provided volunteer services and contributed to the organization's community efforts.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month' for exceptional service."
-      ]
     }
   ],
   "education": [
@@ -129,14 +105,6 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Top Performer Award",
-      "date": "2022-11-02",
-      "awarder": "We Book You",
-      "summary": "Recognized for outstanding contributions to project delivery and team leadership."
-    }
-  ],
   "certificates": [
     {
       "name": "English C1 Level",
@@ -146,6 +114,54 @@
     }
   ],
   "skills": [
+    {
+      "name": "Claude Code",
+      "level": "Advanced",
+      "keywords": [
+        "AI",
+        "Agentic Coding",
+        "Skills",
+        "Hooks"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "level": "Advanced",
+      "keywords": [
+        "AI",
+        "AI-Native IDE",
+        "Agentic Coding"
+      ]
+    },
+    {
+      "name": "MCP",
+      "level": "Advanced",
+      "keywords": [
+        "AI",
+        "Model Context Protocol",
+        "LLM Tooling",
+        "Integrations"
+      ]
+    },
+    {
+      "name": "LLM Integration",
+      "level": "Advanced",
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Anthropic",
+        "Production"
+      ]
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": "Advanced",
+      "keywords": [
+        "AI",
+        "Agentic Workflows",
+        "Automation"
+      ]
+    },
     {
       "name": "HTML",
       "level": "Expert",
@@ -332,22 +348,6 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [
-    {
-      "name": "Tech Innovation",
-      "keywords": [
-        "AI",
-        "Open Source",
-        "Web Development"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Jane Doe",
-      "reference": "Reference available upon request."
-    }
-  ],
   "projects": [
     {
       "name": "GH Solar MX",
@@ -363,12 +363,13 @@
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Landing page for a church in San Antonio, TX.",
+      "description": "Editorial website for a Hispanic church in San Antonio, TX.",
       "highlights": [
-        "Integrated YouTube API for seamless video streaming.",
-        "Developed custom solutions tailored to client's needs."
+        "Built with Next.js 16, React 19, and Tailwind CSS 4.",
+        "Designed a custom \"Modern Sanctuary\" design system with editorial typography.",
+        "Integrated YouTube API for seamless sermon streaming."
       ],
-      "url": "https://gwesp.vercel.app/",
+      "url": "https://migateway.tv/",
       "github": ""
     },
     {

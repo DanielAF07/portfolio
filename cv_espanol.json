@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Anchondo",
-    "label": "Front-End Developer con más de 3 años de experiencia & Emprendedor",
+    "label": "Software Engineer · AI-Native Developer & Tech Lead",
     "image": "/me.webp",
     "email": "danielanchondo07@gmail.com",
     "phone": "+52 8781657636",
     "url": "https://daniel-anchondo.com",
-    "summary": "Desarrollador Front-End Mexicano con experiencia en ReactJS, NextJS, Redux y Zustand. He colaborado en integraciones de diferentes servicios de KYC (Truora / Incode) y pasarelas de pago (Conekta / Stripe). Tengo experiencia en Back-End desarrollando con Python/Flask y NodeJS/Express. He desarrollado en mobile utilizando React Native  y Flutter.",
+    "summary": "Software Engineer con 5+ años construyendo productos de alto rendimiento con React, Next.js, TypeScript y Python. Desarrollador AI-native: construyo MCP servers, Skills y flujos agentic propios (Claude Code, Cursor) y llevo features con LLMs a producción. Como Tech Lead, he impulsado la adopción de IA para acelerar la entrega sin sacrificar calidad.",
     "location": {
       "address": "",
       "postalCode": "26533",
@@ -29,119 +29,146 @@
   },
   "work": [
     {
-      "name": "We Book You",
-      "position": "Tech Lead / Front-End Lead Developer",
-      "url": "https://www.webookyou.com/",
-      "startDate": "2023-11-01",
+      "name": "Gluo/Orium",
+      "position": "Full-Stack Developer",
+      "url": "https://orium.com/",
+      "startDate": "2025-01-20",
       "endDate": null,
-      "summary": "Colaboré en el desarrollo del MVP principal y una solución de marca blanca, utilizando tecnologías como React, NextJS y Redux. Lidero y asesoro actualmente a un equipo de 4-6 desarrolladores.",
+      "summary": "Construyo el sitio principal y páginas promocionales para un cliente con NextJS, TailwindCSS y Contentful como CMS. Impulso el desarrollo aumentado con IA en el equipo — construyendo MCP servers y Skills propios con Claude Code y Cursor para estandarizar y acelerar nuestro flujo de trabajo manteniendo alta calidad.",
       "highlights": [
-        "Desarrollo de MVP",
-        "Liderazgo de equipo"
+        "Construí MCP servers y Skills propios para estandarizar flujos de trabajo aumentados con IA en el equipo.",
+        "Aceleré la entrega introduciendo prácticas de agentic coding (Claude Code, Cursor) sin sacrificar calidad.",
+        "Construí componentes reutilizables basados en contenido integrados con Contentful CMS."
+      ]
+    },
+    {
+      "name": "We Book You",
+      "position": "Tech Lead / Front-End Developer",
+      "url": "https://www.webookyou.com/",
+      "startDate": "2023-11-02",
+      "endDate": "2024-08-02",
+      "summary": "Lideré un equipo de 4-6 desarrolladores para construir y desplegar un MVP principal y una solución de marca blanca, utilizando React, NextJS, Python y FastAPI. Gestioné el desarrollo full-stack y el despliegue con AWS y Vercel, optimizando rendimiento y escalabilidad.",
+      "highlights": [
+        "Reduje el tiempo de onboarding de clientes en 20% con la solución de marca blanca.",
+        "Optimicé el rendimiento del front-end, reduciendo los tiempos de carga en 15%."
       ]
     },
     {
       "name": "Trescento",
-      "position": "Co-Founder & Front-End Developer",
+      "position": "Co-Founder / Full-stack Developer",
       "url": "https://www.trescento.com/",
-      "startDate": "2022-11-01",
-      "endDate": null,
-      "summary": "Dirigí la integración técnica entre diversos productos y lideré la transición de una arquitectura monolítica a una solución más moderna, flexible y optimizada. Impulsé la adopción de mejores prácticas y una cultura orientada al rendimiento, contribuyendo así a la entrega eficiente y rápida de valor a los usuarios.",
+      "startDate": "2022-11-02",
+      "endDate": "2023-11-02",
+      "summary": "Co-fundé y lideré la integración técnica entre diversos productos, dirigiendo la transición de una arquitectura monolítica a una solución moderna y flexible. Impulsé la adopción de mejores prácticas, mejorando la velocidad de entrega y la satisfacción de los usuarios.",
       "highlights": [
-        "Emprendimiento",
-        "Desarrollo de MVP"
+        "Migré exitosamente a una arquitectura de microservicios.",
+        "Implementé una cultura orientada al rendimiento, mejorando la eficiencia del equipo en 25%."
       ]
     },
     {
       "name": "Cura Deuda",
-      "position": "Technical Lead",
-      "startDate": "2021-12-01",
+      "position": "Tech Lead / Front-End Developer",
+      "url": "https://www.curadeuda.com",
+      "startDate": "2021-12-02",
       "endDate": "2022-11-05",
-      "summary": "Desarrollé soluciones innovadoras para problemas clave en el core organizacional y coordiné un equipo de desarrolladores para implementar nuevas características de producto y estrategias, logrando mejoras significativas.",
+      "summary": "Funcioné como Líder Técnico supervisando el desarrollo Front-End y Back-End. Lideré un equipo multifuncional para desarrollar soluciones innovadoras, coordinar implementación de características y optimizar el rendimiento de todo el stack tecnológico.",
       "highlights": [
-        "Liderazgo de equipo"
+        "Lideré el desarrollo de características clave, aumentando el engagement de usuarios en 30%.",
+        "Optimicé procesos de backend, reduciendo costos de servidor en 15%.",
+        "Mejoré la experiencia Front-End con React y JavaScript, aumentando la retención de usuarios.",
+        "Optimicé la integración entre Front-End y Back-End, reduciendo bugs en 20%."
       ]
     },
     {
       "name": "Cura Deuda",
       "position": "Front-End Developer",
+      "url": "https://www.curadeuda.com",
       "startDate": "2021-04-15",
       "endDate": "2021-11-30",
-      "summary": "Lideré el desarrollo Front-End con JS/React, ejecutando integraciones clave (Buró de Crédito, pasarelas de pago, Mixpanel), desarrollo de pruebas A/B, y la implementación de un chat para asesores y procesos de KYC, destacando en innovación técnica y gestión de proyectos.",
+      "summary": "Lideré iniciativas de desarrollo Front-End, incluyendo integraciones con servicios de terceros (Buró de Crédito, pasarelas de pago) e implementación de características como pruebas A/B, chat y procesos de KYC con React y JavaScript.",
       "highlights": [
-        "Liderazgo de equipo"
+        "Entregué integraciones clave, mejorando el onboarding de clientes en 40%.",
+        "Implementé chat en tiempo real y procesos de KYC, mejorando la experiencia de usuario."
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universidad Tecnológica del Norte de Coahuila",
-    "url": "https://www.utnc.edu.mx/",
-    "area": "Ingeniero en Mecatrónica",
-    "studyType": "Bachelor",
-    "startDate": "2017-01-01",
-    "endDate": "2021-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "education": [
+    {
+      "institution": "Universidad Tecnológica del Norte de Coahuila",
+      "url": "https://www.utnc.edu.mx/",
+      "area": "Ingeniero en Mecatrónica",
+      "studyType": "Bachelor",
+      "startDate": "2017-08-02",
+      "endDate": "2021-04-02",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "English C1 Level",
+      "date": "March 2021",
+      "issuer": "EF SET",
+      "url": "https://cert.efset.org/YFfqni"
+    }
+  ],
   "skills": [
     {
+      "name": "Claude Code",
+      "level": "Avanzado",
+      "keywords": [
+        "IA", "Agentic Coding", "Skills", "Hooks"
+      ]
+    },
+    {
+      "name": "Cursor",
+      "level": "Avanzado",
+      "keywords": [
+        "IA", "AI-Native IDE", "Agentic Coding"
+      ]
+    },
+    {
+      "name": "MCP",
+      "level": "Avanzado",
+      "keywords": [
+        "IA", "Model Context Protocol", "LLM Tooling", "Integraciones"
+      ]
+    },
+    {
+      "name": "LLM Integration",
+      "level": "Avanzado",
+      "keywords": [
+        "IA", "OpenAI", "Anthropic", "Producción"
+      ]
+    },
+    {
+      "name": "Prompt Engineering",
+      "level": "Avanzado",
+      "keywords": [
+        "IA", "Agentic Workflows", "Automatización"
+      ]
+    },
+    {
       "name": "HTML",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend"
       ]
     },
     {
       "name": "CSS",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend", "Diseño Responsive"
       ]
     },
     {
       "name": "JavaScript",
-      "level": "Master",
+      "level": "Experto",
       "keywords": [
         "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
       ]
     },
     {
@@ -152,10 +179,59 @@
       ]
     },
     {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+      ]
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Flask",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "Django",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "Desarrollo Web"
+      ]
+    },
+    {
+      "name": "FastAPI",
+      "level": "Avanzado",
+      "keywords": [
+        "Backend", "Desarrollo Web"
+      ]
+    },
+    {
       "name": "NodeJS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "Backend", "JavaScript", "Servidor"
       ]
     },
     {
@@ -180,38 +256,10 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
       "name": "React Native",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Nuxt",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Desarrollo Móvil", "UI", "JavaScript Library"
       ]
     },
     {
@@ -222,10 +270,17 @@
       ]
     },
     {
-      "name": "Flutter / Dart",
+      "name": "AWS",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Servicios en la Nube", "Despliegue", "Infraestructura"
+      ]
+    },
+    {
+      "name": "Github Actions",
+      "level": "Avanzado",
+      "keywords": [
+        "Servicios en la Nube", "Despliegue", "Infraestructura"
       ]
     }
   ],
@@ -239,38 +294,70 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
+    {
+      "name": "GH Solar MX",
+      "isActive": true,
+      "description": "Sitio web y aplicación web interactiva para cotizaciones de instalación de paneles solares.",
+      "highlights": [
+        "Implementé Appwrite como backend para almacenamiento de datos y autenticación.",
+        "Configuré notificaciones automáticas por correo para cotizaciones y consultas de clientes."
+      ],
+      "url": "https://www.ghsolar.com.mx/",
+      "github": ""
+    },
     {
       "name": "Gateway Fellowship Español",
       "isActive": true,
-      "description": "Landing Page para iglesia en San Antonio, TX.",
+      "description": "Website editorial para iglesia hispana en San Antonio, TX.",
       "highlights": [
-        "Integración con YouTube",
-        "Desarrollado a medida para cliente"
+        "Construido con Next.js 16, React 19 y Tailwind CSS 4",
+        "Design system propio \"Modern Sanctuary\" con tipografía editorial",
+        "Integración con YouTube para streaming de mensajes"
       ],
-      "url": "https://gwesp.vercel.app/",
+      "url": "https://migateway.tv/",
       "github": ""
     },
     {
       "name": "Adelanta Por Ziff",
       "isActive": true,
-      "description": "Landing Page para Fintech que brinda servicios financieros en el sector arrendamiento en México",
+      "description": "Landing Page para Fintech que brinda servicios financieros en el sector arrendamiento en México.",
       "highlights": [
-        "Proyecto en Vue, Nuxt 3",
-        "Desarrollado a medida para cliente"
+        "Construido con Vue y Nuxt 3 para una arquitectura web moderna.",
+        "Soluciones a medida para los requerimientos específicos del cliente."
       ],
       "url": "https://lumosweb.vercel.app/"
+    },
+    {
+      "name": "Product Makers",
+      "isActive": true,
+      "description": "Landing page para una empresa de consultoría.",
+      "highlights": [
+        "Utilicé React y NextJS para crear un sitio rápido y optimizado para SEO.",
+        "Entregué una solución a medida para las necesidades de consultoría del cliente."
+      ],
+      "url": "https://mvp-od.vercel.app/"
+    },
+    {
+      "name": "Figma Clone",
+      "isActive": true,
+      "description": "Clon funcional de Figma construido con React y TailwindCSS.",
+      "highlights": [
+        "Repliqué características clave de UI/UX de Figma.",
+        "Demostré experiencia en desarrollo front-end complejo."
+      ],
+      "url": "https://figma-clone-rho.vercel.app/",
+      "github": "https://github.com/danielaf07/figma-clone"
+    },
+    {
+      "name": "Silva Master Cleaning",
+      "isActive": true,
+      "description": "Landing page para una empresa de limpieza.",
+      "highlights": [
+        "Construido con Astro y soporte i18n para usuarios multilingües.",
+        "Solución desarrollada a medida para las necesidades del cliente."
+      ],
+      "url": "https://racoon-smc.vercel.app/"
     }
   ]
 }

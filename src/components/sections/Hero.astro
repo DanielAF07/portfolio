@@ -21,7 +21,10 @@ const SOCIAL_ICONS: SocialIcon = {
 const linkedInfo = profiles.find(({ network }) => network === "LinkedIn")
 const linkedUrl = linkedInfo?.url
 
-const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
+const githubInfo = profiles.find(({ network }) => network === "GitHub")
+const githubUrl = githubInfo?.url
+
+const printInfo = [email, phone, linkedUrl, githubUrl].filter(Boolean).join(" • ")
 
 ---
 

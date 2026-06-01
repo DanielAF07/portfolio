@@ -1,15 +1,10 @@
 export interface CV {
   basics: Basics
   work: Array<Work>
-  volunteer: Array<Volunteer>
   education: Array<Education>
-  awards: Array<Awards>
   certificates: Array<Certificates>
-  publications: Array<Publications>
   skills: Array<Skills>
   languages: Array<Languages>
-  interests: Array<Interests>
-  references: Array<References>
   projects: Array<Projects>
 }
 
@@ -51,27 +46,10 @@ interface Work {
 
 type DateStr = `${string}-${string}-${string}`
 
-interface Volunteer {
-  organization: string
-  position: string
-  url: string
-  startDate: DateStr
-  endDate: DateStr
-  summary: string
-  highlights: Highlight
-}
-
 interface Skills {
   name: string
   level: string
   keywords: Array<string>
-}
-
-interface Awards {
-  title: string
-  date: string
-  awarder: string
-  summary: string
 }
 
 interface Certificates {
@@ -79,14 +57,6 @@ interface Certificates {
   date: DateStr,
   issuer: string,
   url: string
-}
-
-interface Publications {
-  name: string
-  publisher: string
-  releaseDate: DateStr
-  url: string
-  summary: string
 }
 
 interface Education {
@@ -130,16 +100,6 @@ interface Projects {
   highlights: Highlight
   url: string
   github?: string
-}
-
-interface Interests {
-  name: string
-  keywords: Array<string>
-}
-
-interface References {
-  name: string
-  reference: string
 }
 
 type Highlight = Array<String>
